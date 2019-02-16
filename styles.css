@@ -1,0 +1,23 @@
+body {
+  background-image: url('Images/background.png')
+    font-family: 'Libre Baskerville', serif;
+}
+#container {
+  width: 600px;
+  margin: 0 auto;
+}
+img {
+  width: 100px;
+}
+#header {
+  text-align: center;
+}
+#header img {
+  border: 1px solid #000;
+}
+#header h1 {
+
+}
+table {
+  width: 100%;
+}
